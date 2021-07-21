@@ -68,3 +68,5 @@ const twoSum = (nums, target) => {
 
 // twoSum(nums,target)
 console.log(twoSum(nums, target))
+
+// possibly 0(N)  << linear progression?
