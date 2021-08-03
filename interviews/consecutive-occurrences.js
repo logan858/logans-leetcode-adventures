@@ -38,3 +38,5 @@ function crossover (str, substr) {
 }
 
 console.log(crossover(string, subString))
+
+// not a terribly efficient solution however, must re-examine more efficient methods
