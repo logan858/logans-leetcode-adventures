@@ -46,4 +46,4 @@ function isValid (str) {
     return true
 }
 
-/* decent efficiency in terms of speed.  
+/* decent efficiency in terms of speed.  */
