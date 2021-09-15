@@ -56,4 +56,5 @@ let addTwoNumbers = function (l1, l2) {
   previousNode = currentNode
   
   return headNode.next
+  }
 }
